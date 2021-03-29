@@ -1,2 +1,2 @@
 # planet
-Technology and solutions for help to Planet
+Solutions for help to Planet
